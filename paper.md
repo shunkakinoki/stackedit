@@ -6,9 +6,13 @@
 
 Mark Andreesenが「Software is eating the world」と発言した通り、
 あらゆる業界においてSoftware、もしくはDXの波は押し寄せており、
+効率化やMiddlemanの排除、そして大幅な階層の変化はすでに起きています。
 
+ソフトウェアの開発力及び導入、そしてそれに付随する活用力は国力に直結するような時代であるのです。
+しかしながら、
 
-ソフトウェアの開発力及び導入、そしてそれに付随する活用力は国力に直結するような時代であります。
+* 「雇用調整助成金」のオンライン申請に関する政府のソフトウェアのお粗末さ
+* 
 
 -「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
@@ -16,5 +20,5 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5MDMzMDQsOTQ5NzUwMDE3XX0=
+eyJoaXN0b3J5IjpbLTExOTE1ODY1NjUsOTQ5NzUwMDE3XX0=
 -->
