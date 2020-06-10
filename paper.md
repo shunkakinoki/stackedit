@@ -4,12 +4,14 @@
 
 -「IT後進国」である日本とソフトウェアの成熟度の関係性
 
-Mark Andreesenが「Software is eating the world」と発言した通り、Softwareにおける開発力は
+Mark Andreesenが「Software is eating the world」と発言した通り、
+あらゆる業界においてSoftwareを通して
+その開発力及び導入、そしてそれに付随する活用は国力に直結するような時代であります。
 
 -「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
 -「斜陽国家」としての運命を変えるためへの政策
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQwNTc2NDAsOTQ5NzUwMDE3XX0=
+eyJoaXN0b3J5IjpbLTEwNzI1NDk1ODYsOTQ5NzUwMDE3XX0=
 -->
