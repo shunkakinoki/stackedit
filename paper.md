@@ -2,7 +2,7 @@
 
 ## 逆説のスタートアップ思考 ー世界で通用するスタートアップを日本から輩出するためにー
 
--「IT後進国」である日本とソフトウェアの成熟度の関係性
+### 「IT後進国」である日本とソフトウェアの成熟度の関係性
 
 Mark Andreesenが「Software is eating the world」と発言した通り、
 あらゆる業界においてSoftware、もしくはDXの波は押し寄せており、
@@ -21,14 +21,20 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 このような事例は多岐に挙げられるほど、
 
 もはやソフトウェアに関しては
-日本は「IT後進国」で理、ソフトウェアの成熟度の関係性
+日本は「IT後進国」であり、
+それに伴って技術スタックとしての成熟度は低いと言わざるを得ません。
 
+### 「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
--「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
+政府はかつて、安倍政権主導の下、
+
 
 -「斜陽国家」としての運命を変えるためへの政策
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
+
+- [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTU0NzcwNiw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTU4MzY2NTQwMSw5NDk3NTAwMTddfQ==
 -->
