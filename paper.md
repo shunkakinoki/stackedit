@@ -53,13 +53,19 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 とは言いつつも、大局的には
 
-- 国力の低下は避けられない
-- しょうしk
+- 国力の低下
+- 少子高齢化
+- 労働人口減少
+
+といった重要事項の軌道を大幅に変えることはまず難しいです。
+
+そういった時代を一旦受け止めた上で、
+「
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
 
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NzIwMjcwLDk0OTc1MDAxN119
+eyJoaXN0b3J5IjpbMjEzMjM0NzIzNiw5NDk3NTAwMTddfQ==
 -->
