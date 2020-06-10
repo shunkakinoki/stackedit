@@ -11,7 +11,7 @@
 
   
 
-=> どちらへ任せるべきか
+s=> どちらへ任せるべきか
 
   
 
@@ -119,5 +119,5 @@
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NzUwMDE3XX0=
+eyJoaXN0b3J5IjpbLTY3MzgyNzQ4LDk0OTc1MDAxN119
 -->
