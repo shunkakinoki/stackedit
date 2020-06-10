@@ -4,12 +4,12 @@
 
 -「IT後進国」である日本とソフトウェアの成熟度の関係性
 
--
+露呈した
 
 -「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
 -「斜陽国家」としての運命を変えるためへの政策
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTkxMzc4LDk0OTc1MDAxN119
+eyJoaXN0b3J5IjpbLTE0NDkzMzcxMjMsOTQ5NzUwMDE3XX0=
 -->
