@@ -46,16 +46,20 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 グローバルスタンダードになりつつある流れが加速していく中、
 
 近視眼的な観点のみから、既存の既得権益に配慮して
-一切規制緩和を行わず、次のスタートアップの芽を摘むんでいるような
-じょうた
+一切規制緩和を行わず、次のスタートアップの芽を摘むんでいるような状態では、
+大幅な長期的に国力の阻害は避けられずにはいられないでしょう。
 
+### 「斜陽国家」としての運命を変えるためへの政策
 
--「斜陽国家」としての運命を変えるためへの政策
+とは言いつつも、大局的には
+
+- 国力の低下は避けられない
+- しょうしk
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
 
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODEyMjIwNSw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbNzQ3NzIwMjcwLDk0OTc1MDAxN119
 -->
