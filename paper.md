@@ -59,13 +59,15 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 といった重要事項の軌道を大幅に変えることはまず難しいです。
 
-そういった時代を一旦受け止めた上で、
-「
+そういった事態を一旦受け止めた上で、
+「斜陽国家」としての運命を
+少しでも反らすためにはどういった政策がとれるでしょうか。
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
+2. ロボット税の排除
 
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjM0NzIzNiw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMjA1MDYyMTA1NCw5NDk3NTAwMTddfQ==
 -->
