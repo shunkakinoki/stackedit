@@ -15,7 +15,14 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 しかしながら、
 
 * 「雇用調整助成金」のオンラインシステムを始めとした政府のソフトウェアのお粗末さ
-*  日本発のソフトウェアスタートアップでグローバル
+*  日本発のソフトウェアスタートアップでグローバルスタンダードを確立した事例の皆無
+*  総じて国としてソフトウェア全般におけるエコシステムのレベルの低さ
+
+このような事例は多岐に挙げられるほど、
+
+もはやソフトウェアに関しては
+日本は「IT後進国」で理、ソフトウェアの成熟度の関係性
+
 
 -「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
@@ -23,5 +30,5 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYzNjA5NjksOTQ5NzUwMDE3XX0=
+eyJoaXN0b3J5IjpbLTcwOTU0NzcwNiw5NDk3NTAwMTddfQ==
 -->
