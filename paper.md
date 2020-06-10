@@ -64,10 +64,14 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 少しでも反らすためにはどういった政策がとれるでしょうか。
 
 1. 政府主導でオープンソースソフトウェアへの大胆な舵転換
-2. ロボット税の排除
+2. 徹底化した「オープン・ソサイエティ」の導入
+3. ロボット税の排除
 
+政策が「Trickle down effect」を通じて
+中長期的な国力の左右をすることは極めて明白であり、
+ここ2、30年における日本国内におけるイノベーションの欠如、そしてそふ
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDYyMTA1NCw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTExMjE5MTQ0MSw5NDk3NTAwMTddfQ==
 -->
