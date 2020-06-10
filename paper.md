@@ -27,7 +27,13 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 ### 「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
 政府はかつて、安倍政権主導の下、
+「未来投資戦略2018」において、
 
+「企業価値又は時価総額が 10 億ドル以上となる、
+未上場ベンチャー企業（ユニコーン ）又は上場ベンチャー企業を 2023年までに 20 社創出」
+というゴールを掲げています。
+
+これに先立ち、政府はスタートアッ
 
 -「斜陽国家」としての運命を変えるためへの政策
 
@@ -36,5 +42,5 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzY2NTQwMSw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTE5MDA3OTYzMiw5NDk3NTAwMTddfQ==
 -->
