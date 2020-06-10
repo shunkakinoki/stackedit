@@ -43,7 +43,11 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 世界的に見れば、
 ライドシェアやオンライン診療やシェアリングエコノミーが
-グローバルスタンダードn
+グローバルスタンダードになりつつある流れが加速していく中、
+
+近視眼的な観点のみから、既存の既得権益に配慮して
+一切規制緩和を行わず、次のスタートアップの芽を摘むんでいるような
+じょうた
 
 
 -「斜陽国家」としての運命を変えるためへの政策
@@ -53,5 +57,5 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTA3OTU5OSw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTE2ODEyMjIwNSw5NDk3NTAwMTddfQ==
 -->
