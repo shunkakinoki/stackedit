@@ -37,7 +37,13 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 
 * 「ライドシェア」を頑なに規制、(タクシー業界への「忖度」)
 *  オンライン診療への規制、(医療業界への「忖度」)
-*  民泊
+*  民泊業界への規制追加、(ホテル業界への「忖度」)
+
+などと、規制緩和は全くと言ってほど行われていません。
+
+世界的に見れば、
+ライドシェアやオンライン診療やシェアリングエコノミーが
+グローバルスタンダードn
 
 
 -「斜陽国家」としての運命を変えるためへの政策
@@ -47,5 +53,5 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTE1Mzg1Myw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTQwMTA3OTU5OSw5NDk3NTAwMTddfQ==
 -->
