@@ -71,10 +71,10 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 中長期的な国力の左右をすることは極めて明白であり、
 ここ2、30年における日本国内におけるイノベーションの欠如、そしてソフトウェアの技術のレベルの稚拙さ、などは
 間違えなく政策次第で回避可能でありました。
-たんしがんてk政治が巡り巡って
+近視眼的な政治が巡り巡って将来の国民の負債になってはなりません。
 
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTQ3NzIzMCw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
 -->
