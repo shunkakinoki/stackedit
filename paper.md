@@ -1,6 +1,6 @@
 # startup-paradox-paper
 
-##  ー革新後進国としてー
+##  規制緩和と国力の関係性ー革新後進国としてー
 
 ### 「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
@@ -12,6 +12,8 @@
 というゴールを掲げました。
 
 しかし、実態としては、
+
+2019年末現在、ユニコーン企業の数は米国の217社、中国の109社、英国の24者n
 
 * 「ライドシェア」を頑なに規制、(タクシー業界への「忖度」)
 *  オンライン診療への規制、(医療業界への「忖度」)
@@ -61,6 +63,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc0NTAxNzAsMTIyMDkwOTE0NSwtMT
-M1NjI5MDQ4LDEwNDAyMjMxNDMsOTQ5NzUwMDE3XX0=
+eyJoaXN0b3J5IjpbMTAwNjc1NjAyMiwxMjIwOTA5MTQ1LC0xMz
+U2MjkwNDgsMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
 -->
