@@ -31,6 +31,8 @@
 
 かつて馬車から車に移動手段の変革が起こった20世紀前半においては、英国では、安全性の観点から車の最高時速を一定の速度以下と定め、側には常に保安員が歩かなければならないと過剰に規制を行った結果、自動車産業にて英国は後塵を拝する結果となってしまった。
 
+同じように
+
 ### 「斜陽国家」としての運命を変えるためへの政策
 
 とは言いつつも、大局的には
@@ -51,7 +53,7 @@
 
 政策が「Trickle down effect」を通じて
 中長期的な国力の左右をすることは極めて明白であり、
-ここ2、30年における日本国内におけるイノベーションの欠如、そしてソフトウェアの技術のレベルの稚拙さ、などは
+ここ2、30年における日本国内におけるイノベーションの欠如、そしてぜんたいtソフトウェアの技術のレベルの稚拙さ、などは
 間違えなく政策次第で回避可能でありました。
 近視眼的な政治が巡り巡って将来の国民の負債になってはなりません。
 
@@ -59,6 +61,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzIyMTExNCwxMjIwOTA5MTQ1LC0xMz
+eyJoaXN0b3J5IjpbMTcyOTcxNTg2NywxMjIwOTA5MTQ1LC0xMz
 U2MjkwNDgsMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
 -->
