@@ -29,7 +29,7 @@
 
 ### 歴史を省みて企業の競争力と規制の関係性を考える
 
-かつて馬車から車に移動手段の変革が起こった20世紀前半においては、
+かつて馬車から車に移動手段の変革が起こった20世紀前半においては、英国では、安全性の観点から車の最高時速を一定の速度n
 
 移動手段が馬車から車に転じた19世紀後半、英国は都市での車の最高時速を3.2キロメートルに定め、安全のため赤旗を持つ保安員が前を歩いた。ベンチャーエンタープライズセンターの市川隆治理事長は、この過剰な規制を設けた結果、英国は自動車産業で独仏に後れをとったという。「実装しやすい環境がないと競争力は育たない」
 ### 「斜陽国家」としての運命を変えるためへの政策
@@ -60,6 +60,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzIxNTI5LDEyMjA5MDkxNDUsLTEzNT
+eyJoaXN0b3J5IjpbMTk5NDg4MTAwLDEyMjA5MDkxNDUsLTEzNT
 YyOTA0OCwxMDQwMjIzMTQzLDk0OTc1MDAxN119
 -->
