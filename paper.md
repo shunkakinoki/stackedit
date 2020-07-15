@@ -1,28 +1,6 @@
 # startup-paradox-paper
 
-## 逆説のスタートアップ思考 ー世界で通用するスタートアップを日本から輩出するためにー
-
-### 「IT後進国」である日本とソフトウェアの成熟度の関係性
-
-Mark Andreesenが「Software is eating the world」と発言した通り、
-あらゆる業界においてSoftware、もしくはDXの波は押し寄せており、
-すべての階層における効率化やMiddlemanの排除、そして機会としての改革はすでに起きています。
-
-こうした時代においては、
-ソフトウェアの開発力及び導入、そしてそれに付随する活用力は
-国力に直結するような時代であるのは疑いようのない事実でありましょう。
-
-しかしながら、
-
-* 「雇用調整助成金」のオンラインシステムを始めとした政府のソフトウェアのお粗末さ
-*  日本発のソフトウェアスタートアップでグローバルスタンダードを確立した事例の皆無
-*  総じて国としてソフトウェア全般におけるエコシステムのレベルの低さ
-
-このような事例は多岐に挙げられるほど、
-
-もはやソフトウェアに関しては
-日本は「IT後進国」であり、
-それに伴って技術スタックとしての成熟度は低いと言わざるを得ません。
+##  ー革新後進国としてー
 
 ### 「忖度」だらけの政府の規制緩和がもたらす長期的な国力の阻害
 
@@ -76,5 +54,6 @@ Mark Andreesenが「Software is eating the world」と発言した通り、
 - [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbLTEzNTYyOTA0OCwxMDQwMjIzMTQzLDk0OT
+c1MDAxN119
 -->
