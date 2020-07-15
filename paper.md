@@ -27,6 +27,7 @@
 一切規制緩和を行わず、次のスタートアップの芽を摘むんでいるような状態では、
 大幅な長期的に国力の阻害は避けられずにはいられないでしょう。
 
+### 歴史を省みて企業の競争力と規制の関係性を
 ### 「斜陽国家」としての運命を変えるためへの政策
 
 とは言いつつも、大局的には
@@ -51,9 +52,10 @@
 間違えなく政策次第で回避可能でありました。
 近視眼的な政治が巡り巡って将来の国民の負債になってはなりません。
 
-- [] [https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485)
-- 
+- https://www.mag2.com/p/news/453485](https://www.mag2.com/p/news/453485
+- https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
+- https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYyOTA0OCwxMDQwMjIzMTQzLDk0OT
-c1MDAxN119
+eyJoaXN0b3J5IjpbMTIyMDkwOTE0NSwtMTM1NjI5MDQ4LDEwND
+AyMjMxNDMsOTQ5NzUwMDE3XX0=
 -->
