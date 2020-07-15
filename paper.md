@@ -45,11 +45,11 @@
 かつて馬車から車に移動手段の変革が起こった20世紀前半においては、英国では、安全性の観点から車の最高時速を一定の速度以下と定め、側には常に保安員が歩かなければならないと過剰に規制を行った結果、自動車産業にて独国などに比べて英国は後塵を拝する結果となってしまいましたた。
 
 自動車産業にて未だに欧州の中では独国が存在力が高いことを省みると、
-当時の英国の重規制の政策は、1世紀の時を経ても、
-一国の将来的な国力にマイナスな影響をもたらし続けているのです。
+当時の英国の重規制の政策は、1世紀の時を経て未だ尚
+一国の将来的な国力にネガティブな影響をもたらし続けているのです。
 
-このように規制の重さは明らかに産業革新を起こし
-
+このように規制の重さにより、近視眼的に既存産業を過剰に保護することは
+一国の産業革新を大幅に遅らせ
 ### 「斜陽国家」としての運命を変えるためへの政策
 
 とは言いつつも、大局的には
@@ -78,6 +78,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk3MTU5NCwxMjIwOTA5MTQ1LC0xMz
-U2MjkwNDgsMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbMjI1MDY2NjgxLDEyMjA5MDkxNDUsLTEzNT
+YyOTA0OCwxMDQwMjIzMTQzLDk0OTc1MDAxN119
 -->
