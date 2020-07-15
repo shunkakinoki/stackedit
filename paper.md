@@ -50,6 +50,8 @@
 
 このように規制の重さにより、近視眼的に既存産業を過剰に保護することは
 一国の産業革新を大幅に遅らせ
+中・長期的に一国の国力を大幅に削ぐ結果となりかねません。
+
 ### 「斜陽国家」としての運命を変えるためへの政策
 
 とは言いつつも、大局的には
@@ -78,6 +80,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MDY2NjgxLDEyMjA5MDkxNDUsLTEzNT
-YyOTA0OCwxMDQwMjIzMTQzLDk0OTc1MDAxN119
+eyJoaXN0b3J5IjpbLTExMjQ5NzEzNjIsMTIyMDkwOTE0NSwtMT
+M1NjI5MDQ4LDEwNDAyMjMxNDMsOTQ5NzUwMDE3XX0=
 -->
