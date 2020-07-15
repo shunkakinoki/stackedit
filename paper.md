@@ -53,7 +53,7 @@
 
 政策が「Trickle down effect」を通じて
 中長期的な国力の左右をすることは極めて明白であり、
-ここ2、30年における日本国内におけるイノベーションの欠如、そしてぜんたいtソフトウェアの技術のレベルの稚拙さ、などは
+ここ20・30年における日本国内におけるイノベーションの欠如、そして国家的なソフトウェアの技術のレベルの稚拙さ、などは
 間違えなく政策次第で回避可能でありました。
 近視眼的な政治が巡り巡って将来の国民の負債になってはなりません。
 
@@ -61,6 +61,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTcxNTg2NywxMjIwOTA5MTQ1LC0xMz
-U2MjkwNDgsMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
+eyJoaXN0b3J5IjpbLTE1NDc0NTAxNzAsMTIyMDkwOTE0NSwtMT
+M1NjI5MDQ4LDEwNDAyMjMxNDMsOTQ5NzUwMDE3XX0=
 -->
