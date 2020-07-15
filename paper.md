@@ -13,7 +13,12 @@
 
 しかし、実態としては、
 
-2019年末現在、ユニコーン企業の数は米国の217社、中国の109社、英国の24者n
+2019年末現在、ユニコーン企業の数は米国の217社、中国の109社、英国の24社に比べて、
+日本国内にあるのはわずか3社でかありません。
+
+また、最も問題として深刻であるのは、規制の壁です。
+
+
 
 * 「ライドシェア」を頑なに規制、(タクシー業界への「忖度」)
 *  オンライン診療への規制、(医療業界への「忖度」)
@@ -63,6 +68,6 @@
 - https://www.nikkei.com/article/DGXMZO56886120X10C20A3I00000/
 - https://www.nikkei.com/article/DGXMZO56996300Z10C20A3SHA000/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjc1NjAyMiwxMjIwOTA5MTQ1LC0xMz
+eyJoaXN0b3J5IjpbLTQwMjgwMjkwNSwxMjIwOTA5MTQ1LC0xMz
 U2MjkwNDgsMTA0MDIyMzE0Myw5NDk3NTAwMTddfQ==
 -->
